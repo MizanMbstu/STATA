@@ -1,5 +1,4 @@
-  
-  `
+<pre>
   
   ___  ____  ____  ____  ____ (R)
  /__    /   ____/   /   ____/
@@ -20,5 +19,4 @@ Notes:
       1.  Unicode is supported; see help unicode_advice.
       2.  More than 2 billion observations are allowed; see help obs_advice.
       3.  Maximum number of variables is set to 5000; see help set_maxvar.
-
-`
+</pre>
