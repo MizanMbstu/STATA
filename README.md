@@ -1,3 +1,6 @@
+  
+  `
+  
   ___  ____  ____  ____  ____ (R)
  /__    /   ____/   /   ____/
 ___/   /   /___/   /   /___/   16.0   Copyright 1985-2019 StataCorp LLC
@@ -18,3 +21,4 @@ Notes:
       2.  More than 2 billion observations are allowed; see help obs_advice.
       3.  Maximum number of variables is set to 5000; see help set_maxvar.
 
+`
